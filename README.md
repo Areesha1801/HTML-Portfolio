@@ -1,5 +1,9 @@
 # HTML-Portfolio Website
 
+## Webpage GIF
+![Porfolio app demo](https://github.com/Areesha1801/HTML-Portfolio/assets/91142792/658a6e1d-8d99-41f5-ba59-4bb5c7c4c9ec)
+
+
 ## Portfolio Page
 ![Portfolio page](https://github.com/Areesha1801/HTML-Portfolio/assets/91142792/94d307fa-23eb-498a-8a1c-107f1f1d76bb)
 
